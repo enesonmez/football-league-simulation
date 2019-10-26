@@ -1,0 +1,22 @@
+			####   KISA AD    UZUN AD                  MS       G       B       M      AG      YG       AV      PUAN
+			--------------------------------------------------------------------------------------------------------
+
+			  1)     A	GALATASARAY         	    2	    1	    0	    1	    5	    3	     2	     3
+
+			  2)     B	FENERBAHCE          	    3	    1	    0	    2	    4	    7	    -3	     2
+
+			  3)     C	TRABZONSPOR         	    1	    1	    0	    0	    2	    1	     1	     4
+
+			  4)     D	KAS¤‘MPASA          	    1	    1	    0	    0	    3	    2	     1	     4
+
+			  5)     E	ARSENAL             	    2	    0	    0	    2	    3	    6	    -3	    -2
+
+			  6)     F	BARCELONA           	    1	    1	    0	    0	    3	    1	     2	     4
+
+			  7)     G	SAMSUNSPOR          	    1	    0	    0	    1	    4	    5	    -1	    -1
+
+			  8)     H	ERZURUMSPOR         	    1	    1	    0	    0	    5	    4	     1	     4
+
+			  9)     I	ORDUSPOR            	    1	    1	    0	    0	    1	    0	     1	     4
+
+			 10)     J	MALATYASPOR         	    1	    0	    0	    1	    0	    1	    -1	    -1

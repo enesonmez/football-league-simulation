@@ -1,5 +1,3 @@
-//365305 Enes Sönmez 1.Öğretim A grubu Struct İşlemleri
-//376938 Abdullah Bıyık 1. Öğretim C grubu Dosya İşlemleri
 #include <stdio.h>
 #include <stdlib.h>
 

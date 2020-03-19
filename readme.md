@@ -49,10 +49,25 @@
 </table>
   
 <h2>Projeyi Çalıştırma(Running the Project)</h2>
-```
-gcc ornek.c -o ornek
-```
+<h3>Linux</h3>
+<pre>
+   <code>
+      gcc simulation.c -o simulation
+      ./simulation
+   </code>
+</pre>
+<h3>Windows</h3>
+<p>Linux kodu çalışmaz ise <b>mingv32</b>'yi bilgisayarınıza kurun ve projenin kurulu olduğu klasöre gidin.<br>(If Linux code does not work, install <b>mingv32</b> on your computer and go to the folder where the project is installed.)</p>
+<pre>
+   <code>
+      mingw32-gcc.exe C:/ProjectLocation/simulation.c -o C:/ProjectLocation/simulation.exe
+      C:/ProjectLocation/simulation.exe
+   </code>
+</pre>
 
+<h2>Geliştiren (Developer)</h2>
+Enes Sönmez - @enesonmez
 
-
-
+<h2>Lisans (License)</h2>
+Bu proje MIT Lisansı altında lisanslanmıştır.
+This project is licensed under the MIT License - see the LICENSE.md file for details
